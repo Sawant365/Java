@@ -7,6 +7,7 @@ public class Anagram_pgm {
 	public static void main(String[] args) {
 		String s1="Priya";
 		String s2="ayirp";
+		String s3="piya";
 		
 		if(isAnagram(s1,s2)) {
 			System.out.println("it is an Anagram");
